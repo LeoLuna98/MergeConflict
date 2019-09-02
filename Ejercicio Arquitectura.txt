@@ -1,0 +1,19 @@
+• ¿Con qué módulos contará la aplicación?
+- Backend
+- Modulo de tipos de taxi
+- Modulo de rutas
+- Modulo de pagos
+- Modulo viajes
+- Modulo Historial
+- Modulo Perfil
+ • ¿Se contará con varias aplicaciones?
+- Android
+- IOS
+- Windows Phone
+- Sitio Web
+ • ¿Con qué sistemas externos tendremos que interactuar? 
+- Usuarios (clientes y conductores)
+- Google (maps, payment) 
+- VisaNet
+- Paypal
+- Waze
